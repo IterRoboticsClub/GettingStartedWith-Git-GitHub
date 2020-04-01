@@ -1,4 +1,4 @@
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/iteroboticsclub) [![h2](https://badgen.net/badge/License/MIT/green)](https://www.iterroboticsclub.com)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/IterRoboticsClub) [![h2](https://badgen.net/badge/License/MIT/green)](https://github.com/IterRoboticsClub)
 
 # GettingStartedWith-Git-GitHub
 This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
