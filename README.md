@@ -1,9 +1,9 @@
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/IterRoboticsClub) [![h2](https://badgen.net/badge/License/MIT/green)](https://github.com/IterRoboticsClub)
+[![h1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/IterRoboticsClub) [![h2](https://badgen.net/badge/License/GNUV3.0/green)](https://github.com/IterRoboticsClub)
 
 # GettingStartedWith-Git-GitHub
-This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+This project aims at providing guidance & simplifying the way beginners make their contribution in Github. If you are new and want to get started wtith Github then, follow the steps below.
 
-If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
+- If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
 <!--- <img align="right" width="300" src="assets/fork.png" alt="fork this repository" /> --->
 
@@ -28,16 +28,16 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 
 For example:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://IterRoboticsClub/GettingStartedWith-Git-GitHub.git
 ```
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+where `IterRoboticsClub` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd your-repository-name
 ```
 Now create a branch using the `git checkout` command:
 ```
@@ -46,7 +46,7 @@ git checkout -b <add-your-new-branch-name>
 
 For example:
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-master
 ```
 (The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
@@ -90,4 +90,5 @@ Now submit the pull request.
 
 <!---<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" /> --->
 
-Soon we'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Soon the ITER Robotics Club will be merging all your changes into the master branch of this project. 
+You will get a notification email once the changes have been merged.
